@@ -1,3 +1,4 @@
+#This has been authored by Kevin and John
 #from adding import add_two, add_three
 
 def main():
